@@ -1,0 +1,99 @@
+body{
+    background-image: url(/images/bg\ pink.png);
+    background-size: cover;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#board{
+    width:420px;
+    height:420px;
+    background-color: #360619;
+    border: 5px solid;
+    border-radius:10px;
+    margin: auto;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#title{
+    margin-top:1px;
+    padding: 0;
+}
+#scoretext{
+    margin-top: -40px;
+    padding: 0;
+}
+#board div{
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    color: #360619;
+    font-size: 50px;
+    border-radius: 7px;
+   text-align: center;
+    margin: auto;
+}
+.MFR{
+    font-family:MFR;
+}
+.QS{
+    font-family: Quicksand;
+}
+.pink{
+    color:#bb698a;
+}
+@font-face {
+    font-family: MFR;
+    src: url(motleyforcesregular.ttf);
+}
+
+/* progressions */
+.x1{
+    background-color: #ffd8e8;
+}
+.x2{
+    background-color: #ffc6df;
+}
+.x3{
+    background-color: #ffc5dc;
+}
+.x4{
+    background-color: #fab3d0;
+}
+.x5{
+    background-color: #fdafcd;
+}
+.x6{
+    background-color: #fb9ac1;
+}
+.x7{
+    background-color: #fa8cb8;
+}
+.x8{
+    background-color: #f170a4;
+}
+.x9{
+    background-color: #df6b99;
+}
+.x10{
+    background-color: #d25f8d;
+}
+.x11{
+    background-color: #c84f7f;
+}
+.x12{
+    background-color: #b43769;
+}
+.x13{
+    background-color: #9c2454;
+}
+.x14{
+    background-color: #921748;
+}
+.x15{
+    background-color: #85083a;
+}
+
