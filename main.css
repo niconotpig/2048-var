@@ -26,6 +26,18 @@ body{
     margin-top: -40px;
     padding: 0;
 }
+#result{
+    position: absolute;
+    margin-top: -50vh;
+    justify-self: center;
+    background-color: red;
+    padding: 2%;
+    width: 50%;
+    font-size: 60px;
+    color: white;
+    border-radius: 15px;
+    display: none;
+}
 #board div{
     width: 90px;
     height: 90px;
