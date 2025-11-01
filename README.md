@@ -1,9 +1,12 @@
 #come play cat merge!!
 Hello folks, this is my second ever solo project (kinda)! I made a 2048 game following a tutorial but adding my own graphics and win/lose system which better tracks if you actually lost. 
 
+
+##oct 31 2025
+This is the incomplete version without the cat merge, but the 2048 is functioning and playable. 
 ###tutorial
 
-To play, you can either use the arrow keys or WASD. The goal is to merge the same cat icons together until you get a cooler more awesome cat icon. This is also going to be unplayable on mobile, so just like, don't play it on mobile (i'll make something for mobile at one point gang trust)
+To play, you can either use the arrow keys. The goal is to merge the same cat icons together until you get a cooler more awesome cat icon. This is also going to be unplayable on mobile, so just like, don't play it on mobile (i'll make something for mobile at one point gang trust)
 
 The goal is to get to 2048, or in this case, golden cat. You can still keep playing after it though. You lose if there are no more moves left. 
 

@@ -8,8 +8,8 @@ body{
 #board{
     width:420px;
     height:420px;
-    background-color: #360619;
-    border: 5px solid;
+    background-color: #966378;
+    border: 5px solid #966378;
     border-radius:10px;
     margin: auto;
     margin-bottom: 30px;
@@ -42,10 +42,10 @@ body{
     width: 90px;
     height: 90px;
     background-color: white;
-    color: #360619;
+    color: #966378;
     font-size: 50px;
     border-radius: 7px;
-   text-align: center;
+    text-align: center;
     margin: auto;
 }
 .MFR{
@@ -63,49 +63,54 @@ body{
 }
 
 /* progressions */
-.x1{
-    background-color: #ffd8e8;
-}
+/* .x0{
+    background-image: url('/images/0.png');
+    background-size: contain;
+} */
 .x2{
-    background-color: #ffc6df;
-}
-.x3{
-    background-color: #ffc5dc;
+    background-color: #ffd8e8;
+    /* background-image: url(/images/2.PNG); */
 }
 .x4{
-    background-color: #fab3d0;
-}
-.x5{
-    background-color: #fdafcd;
-}
-.x6{
-    background-color: #fb9ac1;
-}
-.x7{
-    background-color: #fa8cb8;
+    background-color: #ffc6df;
 }
 .x8{
+    background-color: #ffc5dc;
+}
+.x16{
+    background-color: #fab3d0;
+}
+.x32{
+    background-color: #fdafcd;
+}
+.x64{
+    background-color: #fb9ac1;
+}
+.x128{
+    background-color: #fa8cb8;
+}
+.x256{
     background-color: #f170a4;
 }
-.x9{
+.x512{
     background-color: #df6b99;
 }
-.x10{
+.x1024{
     background-color: #d25f8d;
 }
-.x11{
+.x2048{
     background-color: #c84f7f;
 }
-.x12{
+.x4096{
     background-color: #b43769;
 }
-.x13{
+.x8192{
     background-color: #9c2454;
 }
-.x14{
+.x16384{
     background-color: #921748;
 }
-.x15{
+.x32768{
     background-color: #85083a;
 }
 
