@@ -1,5 +1,5 @@
 body{
-    background-image: url('images\bg pink.png');
+    background-image: url('C:\Users\amber\2048 ripoff\images\bgpink.png');
     background-size: cover;
     text-align: center;
     justify-content: center;
@@ -59,7 +59,7 @@ body{
 }
 @font-face {
     font-family: MFR;
-    src: url(MotleyForcesRegular.ttf);
+    src: url('C:\Users\amber\2048 ripoff\MotleyForcesRegular.ttf');
 }
 
 /* progressions */
