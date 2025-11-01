@@ -158,7 +158,8 @@ function combineColumn() {
             score.innerHTML = scoreValue
         }
     }
-
+    win()
+    lose()
 }
 function win() {
     let win = winVar()
